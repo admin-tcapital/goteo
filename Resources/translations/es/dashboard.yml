@@ -47,14 +47,14 @@ dashboard-investors-mail-sendto: 'Enviado a %s de tus cofinanciadores:'
 dashboard-investors-mail-sent: 'Mensajes enviados correctamente'
 dashboard-investors-mail-text-required: 'Escribe el mensaje'
 dashboard-investors_table-disclaimer: 'Se recuerda al impulsor que, tal y como establece su contrato, los datos de las personas comecenas incluidos en el archivo descargado se facilitan a los únicos y exclusivos efectos de satisfacer a las personas comecenas las recompensas o retornos comprometidos en el proyecto, así como para informar a aquellas sobre las novedades, avances y actividades relacionadas con el proyecto, quedando absolutamente prohibido el uso de los mismos para cualquier otra finalidad. El incumplimiento de dicha obligación faculta a la Fundación Goteo para emprender las acciones legales correspondientes y retirar el proyecto de la plataforma.'
-dashboard-menu-activity: 'Mi actividad'
+dashboard-menu-activity: 'Mis rendimientos'
 dashboard-menu-activity-apikey: 'Clave API'
 dashboard-menu-activity-spread: Difusión
 dashboard-menu-activity-summary: Resumen
 dashboard-menu-activity-wall: 'Mi muro'
 dashboard-menu-admin_board: Administración
 dashboard-menu-calls-sponsors: Patrocinadores
-dashboard-menu-pool: 'Mi monedero'
+dashboard-menu-pool: 'Mi illetera'
 dashboard-menu-pool-available: Saldo
 dashboard-menu-pool-conditions: Condiciones
 dashboard-menu-profile: 'Mi perfil'
@@ -64,7 +64,7 @@ dashboard-menu-profile-personal: 'Datos personales'
 dashboard-menu-profile-preferences: 'Mis preferencias'
 dashboard-menu-profile-profile: 'Editar perfil'
 dashboard-menu-profile-public: 'Perfil público'
-dashboard-menu-projects: 'Mis proyectos'
+dashboard-menu-projects: 'Mis activos'
 dashboard-menu-projects-analytics: Analítica
 dashboard-menu-projects-commons: Retornos
 dashboard-menu-projects-contract: Contrato
@@ -249,7 +249,7 @@ dashboard-mail-mailing: 'Comunicaciones'
 dashboard-mail-sent-mails: 'Comunicaciones enviadas a %s'
 dashboard-mail-sent-mails-desc: 'Estas son las últimas comunicaciones enviadas a tu email personal.<br><em>NOTA: Las comunicaciones antiguas se eliminan automáticamente.</em>'
 
-dashboard-rewards-my-invests: 'Mis donaciones'
+dashboard-rewards-my-invests: 'Mis inversiones'
 dashboard-rewards-no-invests: 'No has hecho ninguna donación todavía.'
 dashboard-rewards-invests-totals: 'Este es tu historial de donaciones y recompensas.<br>Has realizado %TOTAL% aportaciones por un valor total de <strong>%RAISED%</strong>, de esta cantidad se te han devuelto <strong>%RETURNED%</strong> (a tu monedero virtual o a tu cuenta bancaria) debido a proyectos que no han alcanzado su objetivo.'
 dashboard-rewards-invests-wallet: 'Además, en tu monedero virtual tienes <strong>%AMOUNT%</strong> que puedes usar en cualquier momento.'
